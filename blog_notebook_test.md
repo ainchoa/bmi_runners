@@ -14,6 +14,10 @@ But worry not, we've got you. Let's unpack this and make it useful for you.
 
 What we realised during our investigation is...
 
+## Why should you care?
+
+## How can you use this information?
+
 ## Tell us about you
 
 Now, let's see how we can make all of this useful to you. Let's start by getting to know you better.
